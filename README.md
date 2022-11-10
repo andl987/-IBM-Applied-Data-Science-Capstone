@@ -1,6 +1,6 @@
 # IBM-Applied-Data-Science-Capstone
 
-### IBM Applied Data Science Capstone from Coursera
+### IBM Applied Data Science Capstone project
   
 <ul>
 <li>Data_Collection_API.ipynb: First assignment notebook for Week 1, collecting data from SpaceX REST APIs.</li>
